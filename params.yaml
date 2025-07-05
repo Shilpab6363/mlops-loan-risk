@@ -1,0 +1,3 @@
+train:
+  alpha: 0.1
+  max_iter: 100
